@@ -3,9 +3,13 @@
 I'm a passionate systems engineer with a strong background in automation, web development, and various programming languages. My expertise includes:
 
 - **Web Development:** Proficient in PHP, Python, Java, C++, Angular.
+- **Software Development:** Experienced in developing robust software solutions.
 - **Automation:** Skilled in Git, Jenkins, Automation Anywhere.
-- **Database Management:** Experienced in SAP GUI and data automation.
 - **Cloud Computing:** Strong knowledge of cloud computing principles.
+- **Infrastructure and DevOps:** Experienced in managing and maintaining IT infrastructure.
+- **Database:** Proficient in database management.
+- **Cybersecurity:** Knowledgeable in cybersecurity practices.
+- **Artificial Intelligence:** Experienced in AI technologies and applications.
 
 <p align="left">
 <img src="https://img.freepik.com/fotos-premium/joven-hacker-pirateando-sistema-red-computadora-portatil_814249-990.jpg?w=1060" alt="Hacker Image" style="width: 75%; height: 300px; object-fit: contain">
@@ -44,16 +48,16 @@ I'm a passionate systems engineer with a strong background in automation, web de
 <table>
   <tr>
     <td width="50%">
-      <h2>🚀 Expertise</h2>
+      <h2>📚 Certifications</h2>
       <ul>
-        <li>Web Development</li>
-        <li>Software Development</li>
-        <li>Automation</li>
-        <li>Cloud Computing</li>
-        <li>Infrastructure and DevOps</li>
-        <li>Database</li>
-        <li>Cybersecurity</li>
-        <li>Artificial Intelligence</li>
+        <li>University of Helsinki - Introduction to AI (2023)</li>
+        <li>Intel - Network Transformation 101-102 (2023)</li>
+        <li>Microsoft - Career Essentials in System Administration (2023)</li>
+        <li>Cisco Networking Academy - Python Essentials (2023)</li>
+        <li>RPA Lifecycle: Development and Testing (2023)</li>
+        <li>University of Colorado - Introduction to C# (2022)</li>
+        <li>Automation Anywhere - RPA (2022)</li>
+        <li>AWS Cloud Services Fundamentals (2022)</li>
       </ul>
     </td>
     <td>
