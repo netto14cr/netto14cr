@@ -1,7 +1,13 @@
-### Hi there! I'm Nestor Leiva 👋
-I am proficient in PHP, Python, Java, C++, Angular, Git, Jenkins, Bootstrap, and Automation Anywhere. Experienced in SAP GUI, and data automation, I excel in diverse software development challenges.
+# Hi there! I'm Nestor Leiva 👋
 
-- 📫 How to reach me: [nestorleivamora@gmail.com](mailto:nestorleivamora@gmail.com)
+I'm a passionate systems engineer with a strong background in automation, web development, and various programming languages. My expertise includes:
+
+- **Web Development:** Proficient in PHP, Python, Java, C++, Angular.
+- **Automation:** Skilled in Git, Jenkins, Automation Anywhere.
+- **Database Management:** Experienced in SAP GUI and data automation.
+- **Cloud Computing:** Strong knowledge of cloud computing principles.
+
+I excel in diverse software development challenges and am committed to delivering high-quality solutions. Feel free to reach out to me at [nestorleivamora@gmail.com](mailto:nestorleivamora@gmail.com) to discuss potential collaborations or projects.
 
 <p align="left">
 <img src="https://img.freepik.com/fotos-premium/joven-hacker-pirateando-sistema-red-computadora-portatil_814249-990.jpg?w=1060" alt="Hacker Image" style="width: 75%; height: 300px; object-fit: contain">
