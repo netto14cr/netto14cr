@@ -7,8 +7,6 @@ I'm a passionate systems engineer with a strong background in automation, web de
 - **Database Management:** Experienced in SAP GUI and data automation.
 - **Cloud Computing:** Strong knowledge of cloud computing principles.
 
-I excel in diverse software development challenges and am committed to delivering high-quality solutions. Feel free to reach out to me at [nestorleivamora@gmail.com](mailto:nestorleivamora@gmail.com) to discuss potential collaborations or projects.
-
 <p align="left">
 <img src="https://img.freepik.com/fotos-premium/joven-hacker-pirateando-sistema-red-computadora-portatil_814249-990.jpg?w=1060" alt="Hacker Image" style="width: 75%; height: 300px; object-fit: contain">
 </p>
@@ -66,21 +64,28 @@ I excel in diverse software development challenges and am committed to deliverin
 
 
 ## 📫 How to reach me
+I excel in diverse software development challenges and am committed to delivering high-quality solutions. Feel free to reach out to me at [nestorleivamora@gmail.com](mailto:nestorleivamora@gmail.com) to discuss potential collaborations or projects. You can also find me on other social media platforms:
 
 <p align="left">
   <a href="https://dev.to/netto14cr">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev Profile" height="40" width="auto">
   </a>
-
   <a href="https://www.linkedin.com/in/nestor-leiva-0209a3175/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" height="40" width="auto">
   </a>
-
+  <a href="https://join.skype.com/invite/gJUZ6fipHNgG" target="_blank">
+    <img src="https://img.shields.io/badge/skype-%2300AFF0.svg?&style=for-the-badge&logo=skype&logoColor=white" alt="Skype" height="40" width="auto">
+  </a>
+  <a href="https://open.spotify.com/user/netto14cr?si=d5f77eac525a4797" target="_blank">
+    <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" height="40" width="auto">
+  </a>
+  <a href="https://www.youtube.com/@Nettocr14" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="40" width="auto">
+  </a>
   <a href="mailto:nestorleivamora@gmail.com">
     <img src="https://img.shields.io/badge/Email-%231E90FF.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" width="auto">
   </a>
 </p>
-
 
 | 📈 GitHub Stats                                                                                                   | Top Languages                                                                                                      |
 |------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
