@@ -71,7 +71,7 @@ I'm a passionate systems engineer with a strong background in automation, web de
 I excel in diverse software development challenges and am committed to delivering high-quality solutions. Feel free to reach out to me at [nestorleivamora@gmail.com](mailto:nestorleivamora@gmail.com) to discuss potential collaborations or projects. You can also find me on other social media platforms:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nestor-leiva-0209a3175/" target="_blank">
+  <a href="www.linkedin.com/in/nestor-david-leiva-mora-cr" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" height="40" width="auto">
   </a>
   <a href="https://join.skype.com/invite/gJUZ6fipHNgG" target="_blank">
