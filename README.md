@@ -1,5 +1,5 @@
 ### Hi there! I'm Nestor Leiva 👋
-Passionate systems engineer with expertise in automation and web development. Committed to delivering high-quality solutions and driven by a relentless pursuit of excellence. Skilled in PHP, Python, Java, and C++, with a strong background in database management and cloud computing.
+I am proficient in PHP, Python, Java, C++, Angular, Git, Jenkins, Bootstrap, and Automation Anywhere. Experienced in SAP GUI, and data automation, I excel in diverse software development challenges.
 
 - 📫 How to reach me: [nestorleivamora@gmail.com](mailto:nestorleivamora@gmail.com)
 
