@@ -45,15 +45,6 @@ I'm a passionate systems engineer with a strong background in automation, web de
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="50" height="50" />
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://bai.biswashost.com/storage/blog/76522249.jpg" alt="Bai Image" style="width: 100%; height: auto;">
-    </td>
-  </tr>
-</table>
-
-
 ## 📫 How to reach me
 I excel in diverse software development challenges and am committed to delivering high-quality solutions. Feel free to reach out to me at [nestorleivamora@gmail.com](mailto:nestorleivamora@gmail.com) to discuss potential collaborations or projects. You can also find me on other social media platforms:
 
