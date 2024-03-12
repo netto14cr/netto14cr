@@ -1,5 +1,7 @@
 # Hi there! I'm Nestor Leiva 👋
 
+🌐 Visit my personal portfolio: [Nestor Leiva Portfolio](https://nestor-leiva.vercel.app/)
+
 I'm a passionate systems engineer with a strong background in automation, web development, and various programming languages. My expertise includes:
 
 - **Web Development:** Proficient in PHP, Python, Java, C++, Angular.
@@ -57,6 +59,9 @@ I excel in diverse software development challenges and am committed to deliverin
   </a>
   <a href="https://www.youtube.com/@Nettocr14" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="40" width="auto">
+  </a>
+<a href="https://nestor-leiva.vercel.app/" target="_blank">
+    <img src="https://via.placeholder.com/40" alt="Portfolio" height="40" width="40">
   </a>
   <a href="https://open.spotify.com/user/netto14cr?si=d5f77eac525a4797" target="_blank">
     <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" height="40" width="auto">
