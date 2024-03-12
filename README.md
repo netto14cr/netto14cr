@@ -47,19 +47,6 @@ I'm a passionate systems engineer with a strong background in automation, web de
 
 <table>
   <tr>
-    <td width="50%">
-      <h2>📚 Certifications</h2>
-      <ul>
-        <li>University of Helsinki - Introduction to AI (2023)</li>
-        <li>Intel - Network Transformation 101-102 (2023)</li>
-        <li>Microsoft - Career Essentials in System Administration (2023)</li>
-        <li>Cisco Networking Academy - Python Essentials (2023)</li>
-        <li>RPA Lifecycle: Development and Testing (2023)</li>
-        <li>University of Colorado - Introduction to C# (2022)</li>
-        <li>Automation Anywhere - RPA (2022)</li>
-        <li>AWS Cloud Services Fundamentals (2022)</li>
-      </ul>
-    </td>
     <td>
       <img src="https://bai.biswashost.com/storage/blog/76522249.jpg" alt="Bai Image" style="width: 100%; height: auto;">
     </td>
