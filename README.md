@@ -1,4 +1,4 @@
-# Hi there! I'm Nestor Leiva 👋
+# Hi there! I'm David Leiva 👋
 
 🌐 Visit my personal portfolio: [David Leiva Portfolio](https://david-leiva.vercel.app/)
 
