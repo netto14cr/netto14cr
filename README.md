@@ -48,22 +48,22 @@ I'm a passionate systems engineer with a strong background in automation, web de
 </p>
 
 ## 📫 How to reach me
-I excel in diverse software development challenges and am committed to delivering high-quality solutions. Feel free to reach out to me at [nestorleivamora@gmail.com](mailto:nestorleivamora@gmail.com) to discuss potential collaborations or projects. You can also find me on other social media platforms:
+I excel in diverse software development challenges and am committed to delivering high-quality solutions. Feel free to reach out to me at [davidleivamora1@gmail.com](mailto:davidleivamora1@gmail.com) to discuss potential collaborations or projects. You can also find me on other social media platforms:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nestor-david-leiva-mora-cr" target="_blank">
+  <a href="https://www.linkedin.com/in/david-leiva-mora/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" height="40" width="auto">
   </a>
   <a href="https://join.skype.com/invite/gJUZ6fipHNgG" target="_blank">
     <img src="https://img.shields.io/badge/skype-%2300AFF0.svg?&style=for-the-badge&logo=skype&logoColor=white" alt="Skype" height="40" width="auto">
   </a>
-  <a href="https://www.youtube.com/@Nettocr14" target="_blank">
+  <a href="https://www.youtube.com/@CodeAIUniverse" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="40" width="auto">
   </a>
   <a href="https://open.spotify.com/user/netto14cr?si=d5f77eac525a4797" target="_blank">
     <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" height="40" width="auto">
   </a>
-  <a href="mailto:nestorleivamora@gmail.com">
+  <a href="mailto:davidleivamora1@gmail.com">
     <img src="https://img.shields.io/badge/Email-%231E90FF.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" width="auto">
   </a>
     <a href="https://dev.to/netto14cr">
